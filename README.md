@@ -3,7 +3,7 @@ _IMPORTANT: If you in any way use the code in this collection for research that 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021, No.1]
-## Latest Update: [22/June/2026, No.212]
+## Latest Update: [14/September/2026, No.213]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -232,3 +232,4 @@ _IMPORTANT: If you in any way use the code in this collection for research that 
 |210|[RIS-Assisted Differential Transmitted Spatial Modulation Design](https://github.com/ChaoRong-Zhang/Wireless-Comm.-of-RIS-assisted-Differential-Spatial-Modulation)|Zhang, Chaorong, etal|
 |211|[How to Deploy RIS to Minimize Delay Spread in HST Communications: Railroad Side, or Train Side?](https://github.com/ken0225/RIS-Railroad-Side-or-Train-Side)|K. Wang, etal|
 |212|[Physics-Informed Implicit Neural Representation for Wireless Imaging in RIS-Aided ISAC System](https://github.com/kiwi1944/INRImager)|Huang, Yixuan, etal|
+|213|[QuantRIC: Hybrid Quantum-Classical Framework for Predictive ISAC-RIS Orchestration in 6G O-RAN](https://github.com/Mahdiya-Nishat/QuantRIC)|Nishat Mahdiya Khan, etal|
