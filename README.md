@@ -3,7 +3,7 @@ _IMPORTANT: If you in any way use the code in this collection for research that 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021, No.1]
-## Latest Update: [14/September/2026, No.213]
+## Latest Update: [28/September/2026, No.214 - No.217]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -233,3 +233,7 @@ _IMPORTANT: If you in any way use the code in this collection for research that 
 |211|[How to Deploy RIS to Minimize Delay Spread in HST Communications: Railroad Side, or Train Side?](https://github.com/ken0225/RIS-Railroad-Side-or-Train-Side)|K. Wang, etal|
 |212|[Physics-Informed Implicit Neural Representation for Wireless Imaging in RIS-Aided ISAC System](https://github.com/kiwi1944/INRImager)|Huang, Yixuan, etal|
 |213|[QuantRIC: Hybrid Quantum-Classical Framework for Predictive ISAC-RIS Orchestration in 6G O-RAN](https://github.com/Mahdiya-Nishat/QuantRIC)|Nishat Mahdiya Khan, etal|
+|214|[Intelligent Reflecting Surface Assisted Symbiotic Covert Communications: Design, Analysis, and Optimization](https://web.xidian.edu.cn/lulv/paper.html)|Lu Lv, etal|
+|215|[RIS-Assisted Wireless Powered MEC: Multiple Access Design and Resource Allocation](https://web.xidian.edu.cn/lulv/paper.html)|Lu Lv, etal|
+|216|[Hybrid NOMA Offloading with Semi-Dynamic IRS Beamforming in Wireless Powered MEC Systems](https://web.xidian.edu.cn/lulv/paper.html)|Lu Lv, etal|
+|217|[Self-Sustainable Intelligent Omni-Surface Aided Wireless Networks: Protocol Design and Resource Allocation](https://web.xidian.edu.cn/lulv/paper.html)|Lu Lv, etal|
